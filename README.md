@@ -2,6 +2,6 @@
 
 This is a simple readme file
 
-Some more text
+Some more text Hello World!
 
-Additional text
+Additional text Hello world!
