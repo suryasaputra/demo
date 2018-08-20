@@ -2,6 +2,6 @@
 
 This is a simple readme file
 
-Some more text
+Another Text edited
 
-Additional text
+This is not a text
